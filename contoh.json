@@ -1,0 +1,9 @@
+{
+    "nama": "Rizki Cahyana",
+    "umur": 30,
+    "alamat": {
+        "jalan": "Jl. Contoh",
+        "kota": "Serang"
+    },
+    "hobi": ["coding", "jogging", "riding"]
+}
